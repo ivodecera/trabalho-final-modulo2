@@ -1,1 +1,1 @@
-# trabalho-final-modulo2
+# gestor de inventorio consumiveis e duraveis
